@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode project settings
+.vscode/
+
+# PyCharm project settings
+.idea/
+
+# Logs
+*.log
+
+# Local database
+*.sqlite3
+*.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Env files with secrets
+.env
