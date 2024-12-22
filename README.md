@@ -2,6 +2,8 @@
 
 This Telegram bot retrieves and displays Solana Pools liquidity additions data from the Bitquery API. The bot fetches recent additions in liquidity and provides actionable trade links for the user.
 
+Video Tutorial Link - https://www.youtube.com/watch?v=s5GTjKhUmEo
+
 ## Features
 
 - Fetches and displays liquidity additions in Solana DEX pools.
